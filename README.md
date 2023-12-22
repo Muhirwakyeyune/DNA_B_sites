@@ -101,9 +101,10 @@ The study focuses on predicting DNA transcription factor binding sites through a
 
 The machine learning approach demonstrated the potential to accurately classify TFBS regions, contributing to genomics and bioinformatics. Hyperparameter optimization is crucial for model performance improvement. The study opens avenues for further research and application of machine learning in genomics.
 
-### 6.2. Notebook Link
+### 6.2. Notebook Link and Full Report
+[Report]()
 
-[Github](insert_link_here)
+[Github](https://github.com/Muhirwakyeyune/DNA_B_sites/blob/main/predicting-dna-sequences%20copy.ipynb)
 
 ## 7. References
 
